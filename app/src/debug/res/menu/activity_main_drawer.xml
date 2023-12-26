@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_baseline_home_24"
+            android:title="@string/menu_home" />
+        <item
+            android:id="@+id/nav_vend"
+            android:icon="@drawable/ic_bolt"
+            android:title="@string/menu_vend" />
+        <item
+            android:id="@+id/nav_wallet"
+            android:icon="@drawable/ic_baseline_account_balance_wallet_24"
+            android:title="@string/menu_account" />
+        <item
+            android:id="@+id/nav_history"
+            android:icon="@drawable/ic_history_24"
+            android:title="@string/menu_history" />
+        <item
+            android:id="@+id/nav_change_password"
+            android:icon="@drawable/ic_lock"
+            android:title="@string/action_change_password" />
+        <item
+            android:id="@+id/nav_logout"
+            android:icon="@drawable/ic_logout"
+            android:title="@string/menu_logout" />
+    </group>
+</menu>

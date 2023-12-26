@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">QUICKPAY JEDC</string>
+    <string name="menu_history">History</string>
+    <string name="action_change_password">Change password</string>
+    <string name="old_password">Old password</string>
+    <string name="menu_logout">Log out</string>
+    <string name="action_logout">Log out</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+    <string name="sign_in">Sign in</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="error_invalid_password">Error invalid password</string>
+    <string name="error_field_required">Error field is required</string>
+    <string name="title_activity_main">MainActivity</string>
+
+
+    <string name="current_password">Current Password</string>
+    <string name="new_password">New Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="re_password">Re password</string>
+    <string name="send">Send</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_vend">Vend</string>
+    <string name="menu_account">My Wallet</string>
+    <string name="change_password">Change Password</string>
+    <string name="meter_number">Meter Number</string>
+    <string name="amount">Amount</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="email_optional">Email (Optional)</string>
+    <string name="proceed">Verify</string>
+    <string name="pay">Buy Energy</string>
+    <string name="done">Print</string>
+
+
+    <string name="testprinterbt2">Test Printer BT 2.0</string>
+    <string name="testprinterbt4">Test Printer BT 4.0</string>
+    <string name="testprinterusb">Test Printer USB</string>
+    <string name="testprinternet">Test Printer NET</string>
+    <string name="tickettype">Ticket Type</string>
+    <string name="tickettype58mm">58MM Ticket</string>
+    <string name="tickettype80mm">80MM Ticket</string>
+    <string name="hardwarefunction">Hardware Function</string>
+    <string name="cutter">Cutter</string>
+    <string name="drawer">Drawer</string>
+    <string name="beeper">Beeper</string>
+    <string name="printcount">Print Count</string>
+    <string name="bitmapcompress">Bitmap Compress</string>
+    <string name="printsuccess">Print Success</string>
+    <string name="printfailed">Print Failed</string>
+    <string name="select">Please select type</string>
+</resources>
